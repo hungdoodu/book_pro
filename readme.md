@@ -1,6 +1,7 @@
 Git basic:
 
 - Intro Git basic
+- Anh Hung dang sua
 
 - Create an account
 - Git init
