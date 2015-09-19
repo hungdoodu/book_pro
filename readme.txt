@@ -9,3 +9,6 @@ Git basic:
 - Git push
 
 - Git pull
+
+save password
+git config remote.origin.url https://you:password@github.com/you/example.git
