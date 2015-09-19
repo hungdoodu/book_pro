@@ -1,5 +1,7 @@
 Git basic:
 
+- Intro Git basic
+
 - Create an account
 - Git init
 
