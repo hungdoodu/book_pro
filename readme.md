@@ -5,6 +5,7 @@ Git basic:
 - Git clone
 - Git add .
 - Git commit -m "some comments"
+- git remote add pb https://github.com/hungdoodu/Car-Mapping
 - Git push origin master
 - Git pull
 
