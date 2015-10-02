@@ -5,7 +5,7 @@ Git basic:
 - Git clone
 - Git add .
 - Git commit -m "some comments"
-- Git push
+- Git push origin master
 - Git pull
 
 save password
