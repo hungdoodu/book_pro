@@ -9,6 +9,9 @@ Git basic:
 - Git push origin master
 - Git pull
 
+add a project to github
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
 save password
 git config remote.origin.url https://you:password@github.com/you/example.git
 
