@@ -4,7 +4,9 @@ Git basic:
 - Git init
 - Git clone
 - Git add .
+- "git add --all" let you record the removals.
 - Git commit -m "some comments"
+- 
 - git remote add pb https://github.com/hungdoodu/Car-Mapping
 - Git push origin master
 - Git pull
